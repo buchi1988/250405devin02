@@ -1,4 +1,4 @@
-echo '{
+{
 "name": "250405devin02",
 "version": "1.0.0",
 "description": "",
@@ -9,4 +9,4 @@ echo '{
 "keywords": [],
 "author": "",
 "license": "ISC"
-}' > ~/repos/250405devin02/package.json
+}
